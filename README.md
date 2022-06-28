@@ -106,7 +106,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/dannerterra/dannerterra/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/dannerterra/dannerterra/output/snake.svg" alt="Snake animation" />
 
 ###
 
