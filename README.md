@@ -110,6 +110,13 @@
 
 ###
 
+<br clear="both">
+
+![GitHub Snake Light](https://raw.githubusercontent.com/dannerterra/dannerterra/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/dannerterra/dannerterra/output/github-snake-dark.svg#gh-dark-mode-only)
+
+###
+
 <div align="left">
   <a href="https://open.spotify.com/user/12165169933">
     <img src="https://spotify-embeded.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
