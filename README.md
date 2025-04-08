@@ -12,12 +12,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="300" src="https://pt.gravatar.com/userimage/140082527/0af6d9d0bade1ac7bed38ba00a25d075?size=500"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" width="70" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="45" width="70" alt="php logo"  />
