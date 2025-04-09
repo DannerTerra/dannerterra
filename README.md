@@ -106,7 +106,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://spotify-embeded.vercel.app/api/spotify?" alt="Widget with the current Spotify song"  />
 </div>
 
