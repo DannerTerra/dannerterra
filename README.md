@@ -84,7 +84,7 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/dannerterra" target="_blank">
+  <a href="https://linkedin.com/in/dannerterra" target="_blank" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="20" alt="linkedin logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="20" alt="instagram logo"  />
