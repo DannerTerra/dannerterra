@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi👋, Welcome to my Portfolio | Danner Terra -- Senior Software Engineer</h2>
+<h2 align="left">Hi👋, welcome to my portfolio | Danner Terra -- Senior Software Engineer</h2>
 
 ###
 
