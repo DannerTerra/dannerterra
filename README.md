@@ -1,13 +1,13 @@
 
-<h2 align="left">Hi 👋! My name is Danner Terra and I'm a Senior Software Engineer from Brazil</h2>
+<h2 align="left">Hi 👋! Welcome to my Portfolio | Danner Terra -- Senior Software Engineer</h2>
 
 ###
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=dannerterra" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&custom_title=Languages&username=dannerterra" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&custom_title=Languages%20we%20love%20💙&username=dannerterra" height="150" alt="languages graph"  />
 </div>
 
 ###
