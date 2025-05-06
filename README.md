@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi👋, welcome to my portfolio | Think Twice Code Once</h2>
+<h2 align="center">Hi👋, welcome | Think Twice Code Once</h2>
 
 ###
 
